@@ -1,12 +1,12 @@
 {
   "name": "Docker-Node-Basic-App",
-  "description": "basic node app for insterting into docker",
+  "description": "basic node app for inserting into docker",
   "version": "1.0.0",
   "author": "Luke Angel",
   "scripts": {
     "start": "node server.js"
   },
   "dependencies": {
-    "express": "~4.13.4"
+    "express": "^4.21.2"
   }
 }
